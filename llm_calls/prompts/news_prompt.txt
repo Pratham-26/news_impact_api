@@ -1,0 +1,33 @@
+Please analyze the following news article text (which is appended after these instructions) and perform the tasks below:
+
+<instructions>
+Summarize the Article:
+Provide a brief summary (a few sentences) that captures the key points and essence of the article without repeating the entire text.
+
+Evaluate the Impact Across Multiple Domains:
+For each of the following domains, assign an impact score from 1 to 5 and explain your reasoning. Use the following scale for each domain:
+
+1 (Minimal Impact): The event has little to no noticeable effect; its influence is confined to a very narrow area or niche audience.
+2 (Low Impact): The event triggers a modest reaction with minor shifts in opinion or behavior, limited to specific groups or regions.
+3 (Moderate Impact): The event affects several facets noticeably, causing measurable changes in public sentiment or behavior that persist for a moderate duration.
+4 (High Impact): The event produces widespread and substantial changes across multiple domains, influencing policies, economic conditions, or social behaviors over an extended period.
+5 (Extreme Impact): The event is transformative, fundamentally reshaping societal norms, institutions, or systems with deep, long-lasting effects.
+Domains to Evaluate:
+
+Political Impact: (e.g., effects on governance, public opinion, elections, or policy changes)
+Economic Impact: (e.g., influence on markets, business conditions, consumer confidence)
+Social Impact: (e.g., changes in public behavior, social cohesion, or community sentiment)
+Cultural Impact: (e.g., effects on societal norms, values, identity, or collective memory)
+Environmental Impact: (e.g., raising awareness or prompting actions on environmental issues)
+Health Impact: (e.g., influence on public health, individual behaviors, or health policies)
+Legal/Regulatory Impact: (e.g., prompting legal reforms, court rulings, or changes in regulations)
+International/Geopolitical Impact: (e.g., effects on global relations, diplomacy, or security)
+Technological Impact: (e.g., accelerating technology adoption or highlighting cybersecurity issues)
+Psychological Impact: (e.g., affecting emotions, stress levels, or mental health)
+For each domain, list:
+
+The domain name.
+The assigned impact score (1–5).
+A detailed explanation of why that score was assigned based on the content of the article.
+Just return the summary and the impact score for each domain.
+</instructions>
