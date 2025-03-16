@@ -44,7 +44,7 @@ def generate_prompt(text : str, prompt_type : str) -> str:
     logger.info("Generating prompt")
     if prompt_type == "news":
         prompt_prefix = open("llm_calls/prompts/news_prompt.txt", "r", encoding="utf-8").read()
-        prompt = f"{prompt_prefix}\n\nArticle text: {text}"
+        prompt = f"{prompt_prefix}\n\n<article>Article text: {text}\n</article>"
         logger.info("Prompt generated")
         logger.info(prompt)
         return prompt
